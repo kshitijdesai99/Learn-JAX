@@ -1,0 +1,1 @@
+I wanted to learn JAX, I found this repo https://github.com/vopani/jaxton.git which inspired me to build this.
